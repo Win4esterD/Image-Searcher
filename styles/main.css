@@ -1,0 +1,11 @@
+main {
+  min-height: 80vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding-left: 5vw;
+}
+
+.foto {
+  padding: 1.5rem;
+}

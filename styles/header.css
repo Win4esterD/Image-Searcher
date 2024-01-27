@@ -1,0 +1,25 @@
+header {
+  height: 10vh;
+  background-color: var(--main-background-color);
+  display: flex;
+  justify-content: center;
+}
+
+.searcher-wrapper {
+  margin-top: 1.5rem;
+}
+
+.searcher {
+  width: 16rem;
+  height: 2rem;
+  border-radius: 0.3rem;
+  padding-left: 1rem;
+}
+
+
+.cross {
+  position: relative;
+  right: 2.4rem;
+  top: 0.6rem;
+  cursor: pointer;
+}

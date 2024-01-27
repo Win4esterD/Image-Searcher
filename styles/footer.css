@@ -1,0 +1,28 @@
+footer {
+  height: 10vh;
+  background-color: var(--main-background-color);
+  display: flex;
+  justify-content: space-between;
+}
+
+.author{
+  font-family: var(--main-font-family);
+  text-decoration: none;
+  color: var(--main-text-color);
+  font-size: var(--main-font-size);
+  padding-left: 3rem;
+  padding-top: 1.5rem;
+}
+
+.year {
+  font-family: var(--main-font-family);
+  font-size: var(--main-font-size);
+  padding-top: 1.5rem;
+}
+
+.rs-logo{
+  width: 7rem;
+  height: 4rem;
+  padding-right: 3rem;
+  padding-top: 1rem;
+}
